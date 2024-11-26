@@ -1,19 +1,15 @@
-import "./App.css";
-import ResultsDisplay from "./components/ResultsDisplay";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import UploadImage from "./components/UploadImage";
+import ResultsPage from "./components/ResultsPage";
 
 function App() {
   return (
-    <div className="app-container">
-      <header className="app-header">
-        <h1>Car Matricule Recognition</h1>
-        <p>Upload an image to recognize car license plates.</p>
-      </header>
-      <main className="app-main">
-        <UploadImage />
-        <ResultsDisplay />
-      </main>
-    </div>
+    <Router>
+      <Routes>
+        <Route path="/" element={<UploadImage />} />
+        <Route path="/results" element={<ResultsPage />} />
+      </Routes>
+    </Router>
   );
 }
 
