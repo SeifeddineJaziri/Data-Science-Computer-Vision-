@@ -6,11 +6,11 @@ import requests
 import os
 from urllib.parse import urljoin
 
+
 def download_image(image_url, folder, counter):
     try:
         response = requests.get(image_url)
         response.raise_for_status()  
-
         image_name = f"SJ_{counter:02d}.jpg"  
 
         image_path = os.path.join(folder, image_name)
