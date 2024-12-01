@@ -1,3 +1,21 @@
+<<<<<<< HEAD
+peugeot
+opel
+mercedes
+uk
+volkswagen
+isuzu
+kia
+citroen
+dacia
+hundai
+renault
+ford
+fiat
+suzuki
+seat
+mini
+=======
 renault
 volkswagen
 peugeot
@@ -7,3 +25,4 @@ mahindra
 ford
 mercedes
 uk
+>>>>>>> 62e081227a2fe28712b116ea8c43a85b37f1c071
