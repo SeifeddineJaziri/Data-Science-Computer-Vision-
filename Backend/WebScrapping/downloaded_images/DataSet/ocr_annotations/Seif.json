@@ -1,0 +1,4866 @@
+{
+    "IMG_1.jpg73102": {
+        "filename": "IMG_1.jpg",
+        "size": 73102,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 334,
+                    "y": 621,
+                    "width": 280,
+                    "height": 56
+                },
+                "region_attributes": {
+                    "palet": "233 تونس 157"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_2.jpg98985": {
+        "filename": "IMG_2.jpg",
+        "size": 98985,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 315,
+                    "y": 916,
+                    "width": 135,
+                    "height": 22
+                },
+                "region_attributes": {
+                    "palet": "106 تونس  7995"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_3.jpg11890": {
+        "filename": "IMG_3.jpg",
+        "size": 11890,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 113,
+                    "y": 194,
+                    "width": 45,
+                    "height": 9
+                },
+                "region_attributes": {
+                    "palet": "136 تونس  7268"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 265,
+                    "y": 67,
+                    "width": 9,
+                    "height": 3
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 232,
+                    "y": 62,
+                    "width": 6,
+                    "height": 3
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_4.jpg293260": {
+        "filename": "IMG_4.jpg",
+        "size": 293260,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 654,
+                    "y": 754,
+                    "width": 199,
+                    "height": 61
+                },
+                "region_attributes": {
+                    "palet": "175 تونس 4625"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_5.jpg327334": {
+        "filename": "IMG_5.jpg",
+        "size": 327334,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 419,
+                    "y": 970,
+                    "width": 249,
+                    "height": 62
+                },
+                "region_attributes": {
+                    "palet": "110 تونس 2693"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 912,
+                    "y": 409,
+                    "width": 17,
+                    "height": 13
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_6.jpg107822": {
+        "filename": "IMG_6.jpg",
+        "size": 107822,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 199,
+                    "y": 581,
+                    "width": 172,
+                    "height": 34
+                },
+                "region_attributes": {
+                    "palet": "194 تونس 9362"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_7.jpg93942": {
+        "filename": "IMG_7.jpg",
+        "size": 93942,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 249,
+                    "y": 411,
+                    "width": 213,
+                    "height": 45
+                },
+                "region_attributes": {
+                    "palet": "194 تونس 5066"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_8.jpg118911": {
+        "filename": "IMG_8.jpg",
+        "size": 118911,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 250,
+                    "y": 421,
+                    "width": 219,
+                    "height": 43
+                },
+                "region_attributes": {
+                    "palet": "223 تونس 7697"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_9.jpg106233": {
+        "filename": "IMG_9.jpg",
+        "size": 106233,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 252,
+                    "y": 401,
+                    "width": 232,
+                    "height": 52
+                },
+                "region_attributes": {
+                    "palet": "222 تونس 589"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_10.jpg197596": {
+        "filename": "IMG_10.jpg",
+        "size": 197596,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 41,
+                    "y": 473,
+                    "width": 142,
+                    "height": 84
+                },
+                "region_attributes": {
+                    "palet": "173 تونس "
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_11.jpg7922": {
+        "filename": "IMG_11.jpg",
+        "size": 7922,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 119,
+                    "y": 138,
+                    "width": 59,
+                    "height": 16
+                },
+                "region_attributes": {
+                    "palet": "\\\\MAGIC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 44,
+                    "y": 99,
+                    "width": 17,
+                    "height": 9
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 217,
+                    "y": 83,
+                    "width": 11,
+                    "height": 8
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_12.jpg8162": {
+        "filename": "IMG_12.jpg",
+        "size": 8162,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 111,
+                    "y": 197,
+                    "width": 57,
+                    "height": 13
+                },
+                "region_attributes": {
+                    "palet": "\\\\ MAGIC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 29,
+                    "y": 160,
+                    "width": 17,
+                    "height": 8
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_13.jpg76290": {
+        "filename": "IMG_13.jpg",
+        "size": 76290,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 241,
+                    "y": 855,
+                    "width": 159,
+                    "height": 32
+                },
+                "region_attributes": {
+                    "palet": "164 تونس 8930"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_14.jpg12526": {
+        "filename": "IMG_14.jpg",
+        "size": 12526,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 39,
+                    "y": 139,
+                    "width": 41,
+                    "height": 17
+                },
+                "region_attributes": {
+                    "palet": "AFFICHAGE AUTO"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_15.jpg13252": {
+        "filename": "IMG_15.jpg",
+        "size": 13252,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 33,
+                    "y": 139,
+                    "width": 35,
+                    "height": 32
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_16.jpg11890": {
+        "filename": "IMG_16.jpg",
+        "size": 11890,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 113,
+                    "y": 194,
+                    "width": 46,
+                    "height": 9
+                },
+                "region_attributes": {
+                    "palet": "136 تونس 7268"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 263,
+                    "y": 67,
+                    "width": 11,
+                    "height": 3
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 233,
+                    "y": 61,
+                    "width": 6,
+                    "height": 4
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_17.jpg11908": {
+        "filename": "IMG_17.jpg",
+        "size": 11908,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 127,
+                    "y": 211,
+                    "width": 33,
+                    "height": 19
+                },
+                "region_attributes": {
+                    "palet": "218 تونس 1844"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 20,
+                    "y": 49,
+                    "width": 13,
+                    "height": 14
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_18.jpg158887": {
+        "filename": "IMG_18.jpg",
+        "size": 158887,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 99,
+                    "y": 119,
+                    "width": 49,
+                    "height": 28
+                },
+                "region_attributes": {
+                    "palet": "123 تونس 5432"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_19.jpg13300": {
+        "filename": "IMG_19.jpg",
+        "size": 13300,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 109,
+                    "y": 176,
+                    "width": 59,
+                    "height": 15
+                },
+                "region_attributes": {
+                    "palet": "245 تونس 6433"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_20.jpg11894": {
+        "filename": "IMG_20.jpg",
+        "size": 11894,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 113,
+                    "y": 209,
+                    "width": 94,
+                    "height": 19
+                },
+                "region_attributes": {
+                    "palet": "\\\\ MAGIC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2,
+                    "y": 128,
+                    "width": 15,
+                    "height": 9
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_21.jpg10480": {
+        "filename": "IMG_21.jpg",
+        "size": 10480,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 76,
+                    "y": 224,
+                    "width": 80,
+                    "height": 15
+                },
+                "region_attributes": {
+                    "palet": "207 تونس 2574"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_22.jpg10038": {
+        "filename": "IMG_22.jpg",
+        "size": 10038,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 17,
+                    "y": 148,
+                    "width": 72,
+                    "height": 27
+                },
+                "region_attributes": {
+                    "palet": "\\\\ MAGIC"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_23.jpg12332": {
+        "filename": "IMG_23.jpg",
+        "size": 12332,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 131,
+                    "y": 190,
+                    "width": 56,
+                    "height": 13
+                },
+                "region_attributes": {
+                    "palet": "\\\\ MAGIC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 10,
+                    "y": 155,
+                    "width": 25,
+                    "height": 13
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 223,
+                    "y": 120,
+                    "width": 15,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_24.jpg76948": {
+        "filename": "IMG_24.jpg",
+        "size": 76948,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 195,
+                    "y": 897,
+                    "width": 256,
+                    "height": 41
+                },
+                "region_attributes": {
+                    "palet": "164 تونس 8930"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_25.jpg7922": {
+        "filename": "IMG_25.jpg",
+        "size": 7922,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 120,
+                    "y": 137,
+                    "width": 58,
+                    "height": 15
+                },
+                "region_attributes": {
+                    "palet": "\\\\ MAGIC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 45,
+                    "y": 99,
+                    "width": 16,
+                    "height": 9
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 216,
+                    "y": 82,
+                    "width": 13,
+                    "height": 9
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_26.jpg8162": {
+        "filename": "IMG_26.jpg",
+        "size": 8162,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 111,
+                    "y": 198,
+                    "width": 56,
+                    "height": 11
+                },
+                "region_attributes": {
+                    "palet": "\\\\ MAGIC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 30,
+                    "y": 161,
+                    "width": 14,
+                    "height": 7
+                },
+                "region_attributes": {
+                    "palet": "\\\\ MAGIC"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_27.jpg58072": {
+        "filename": "IMG_27.jpg",
+        "size": 58072,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 356,
+                    "y": 151,
+                    "width": 79,
+                    "height": 23
+                },
+                "region_attributes": {
+                    "palet": "204 تونس 5665"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_28.jpg14878": {
+        "filename": "IMG_28.jpg",
+        "size": 14878,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 237,
+                    "y": 207,
+                    "width": 52,
+                    "height": 27
+                },
+                "region_attributes": {
+                    "palet": "\\\\ MAGIC"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_29.jpg11476": {
+        "filename": "IMG_29.jpg",
+        "size": 11476,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 199,
+                    "y": 214,
+                    "width": 68,
+                    "height": 31
+                },
+                "region_attributes": {
+                    "palet": "\\\\ MAGIC"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_30.jpg9830": {
+        "filename": "IMG_30.jpg",
+        "size": 9830,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 207,
+                    "y": 83,
+                    "width": 55,
+                    "height": 17
+                },
+                "region_attributes": {
+                    "palet": "\\\\ MAGIC"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_31.jpg9830": {
+        "filename": "IMG_31.jpg",
+        "size": 9830,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 207,
+                    "y": 81,
+                    "width": 54,
+                    "height": 19
+                },
+                "region_attributes": {
+                    "palet": "\\\\ MAGIC"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_32.jpg14546": {
+        "filename": "IMG_32.jpg",
+        "size": 14546,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 215,
+                    "y": 219,
+                    "width": 59,
+                    "height": 31
+                },
+                "region_attributes": {
+                    "palet": "\\\\ MAGIC"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_33.jpg10480": {
+        "filename": "IMG_33.jpg",
+        "size": 10480,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 73,
+                    "y": 220,
+                    "width": 85,
+                    "height": 23
+                },
+                "region_attributes": {
+                    "palet": "207 تونس 2574"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_34.jpg10038": {
+        "filename": "IMG_34.jpg",
+        "size": 10038,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 17,
+                    "y": 151,
+                    "width": 73,
+                    "height": 25
+                },
+                "region_attributes": {
+                    "palet": "\\\\ MAGIC"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_35.jpg98750": {
+        "filename": "IMG_35.jpg",
+        "size": 98750,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 303,
+                    "y": 536,
+                    "width": 329,
+                    "height": 60
+                },
+                "region_attributes": {
+                    "palet": "241 تونس 467"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_36.jpg7922": {
+        "filename": "IMG_36.jpg",
+        "size": 7922,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 117,
+                    "y": 139,
+                    "width": 60,
+                    "height": 15
+                },
+                "region_attributes": {
+                    "palet": "\\\\ MAGIC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 43,
+                    "y": 98,
+                    "width": 17,
+                    "height": 9
+                },
+                "region_attributes": {
+                    "palet": "\\\\ MAGIC"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_37.jpg8162": {
+        "filename": "IMG_37.jpg",
+        "size": 8162,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 113,
+                    "y": 198,
+                    "width": 53,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "palet": "\\\\ MAGIC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 29,
+                    "y": 159,
+                    "width": 16,
+                    "height": 9
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_38.jpg11476": {
+        "filename": "IMG_38.jpg",
+        "size": 11476,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 203,
+                    "y": 213,
+                    "width": 61,
+                    "height": 35
+                },
+                "region_attributes": {
+                    "palet": "\\\\ MAGIC"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_39.jpg85620": {
+        "filename": "IMG_39.jpg",
+        "size": 85620,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 335,
+                    "y": 621,
+                    "width": 304,
+                    "height": 60
+                },
+                "region_attributes": {
+                    "palet": "BE HAPPY \nSAVE MONEY."
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_40.jpg17460": {
+        "filename": "IMG_40.jpg",
+        "size": 17460,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 20,
+                    "y": 149,
+                    "width": 42,
+                    "height": 26
+                },
+                "region_attributes": {
+                    "palet": "GOLDEN.CAR"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_41.jpg11476": {
+        "filename": "IMG_41.jpg",
+        "size": 11476,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 199,
+                    "y": 217,
+                    "width": 67,
+                    "height": 33
+                },
+                "region_attributes": {
+                    "palet": "\\\\ MAGIC"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_42.jpg11890": {
+        "filename": "IMG_42.jpg",
+        "size": 11890,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 113,
+                    "y": 193,
+                    "width": 45,
+                    "height": 11
+                },
+                "region_attributes": {
+                    "palet": "136 تونس 7268"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 265,
+                    "y": 67,
+                    "width": 11,
+                    "height": 5
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_43.jpg11908": {
+        "filename": "IMG_43.jpg",
+        "size": 11908,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 129,
+                    "y": 213,
+                    "width": 31,
+                    "height": 20
+                },
+                "region_attributes": {
+                    "palet": "216 تونس 1644"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 19,
+                    "y": 49,
+                    "width": 15,
+                    "height": 15
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_44.jpg158887": {
+        "filename": "IMG_44.jpg",
+        "size": 158887,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 99,
+                    "y": 118,
+                    "width": 47,
+                    "height": 23
+                },
+                "region_attributes": {
+                    "palet": "123 تونس 5432"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_45.jpg13300": {
+        "filename": "IMG_45.jpg",
+        "size": 13300,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 111,
+                    "y": 177,
+                    "width": 55,
+                    "height": 13
+                },
+                "region_attributes": {
+                    "palet": "245 تونس 6433"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_46.jpg66755": {
+        "filename": "IMG_46.jpg",
+        "size": 66755,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 248,
+                    "y": 980,
+                    "width": 253,
+                    "height": 51
+                },
+                "region_attributes": {
+                    "palet": "67 تونس 3533"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_47.jpg11894": {
+        "filename": "IMG_47.jpg",
+        "size": 11894,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 111,
+                    "y": 210,
+                    "width": 93,
+                    "height": 20
+                },
+                "region_attributes": {
+                    "palet": "\\\\ MAGIC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2,
+                    "y": 130,
+                    "width": 18,
+                    "height": 11
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_48.jpg12332": {
+        "filename": "IMG_48.jpg",
+        "size": 12332,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 131,
+                    "y": 190,
+                    "width": 61,
+                    "height": 15
+                },
+                "region_attributes": {
+                    "palet": "\\\\ MAGIC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 7,
+                    "y": 155,
+                    "width": 29,
+                    "height": 13
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_49.jpg14878": {
+        "filename": "IMG_49.jpg",
+        "size": 14878,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 236,
+                    "y": 209,
+                    "width": 53,
+                    "height": 29
+                },
+                "region_attributes": {
+                    "palet": "\\\\ MAGIC"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_50.jpg11574": {
+        "filename": "IMG_50.jpg",
+        "size": 11574,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 4,
+                    "y": 211,
+                    "width": 56,
+                    "height": 31
+                },
+                "region_attributes": {
+                    "palet": "\\\\ MAGIC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 107,
+                    "y": 260,
+                    "width": 3,
+                    "height": 24
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 64,
+                    "y": 249,
+                    "width": 17,
+                    "height": 26
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 65,
+                    "y": 249,
+                    "width": 27,
+                    "height": 6
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 153,
+                    "y": 226,
+                    "width": 10,
+                    "height": 13
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_51.jpg11908": {
+        "filename": "IMG_51.jpg",
+        "size": 11908,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 131,
+                    "y": 209,
+                    "width": 31,
+                    "height": 27
+                },
+                "region_attributes": {
+                    "palet": "218 تونس 1644"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 20,
+                    "y": 49,
+                    "width": 14,
+                    "height": 17
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_52.jpg8780": {
+        "filename": "IMG_52.jpg",
+        "size": 8780,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 73,
+                    "y": 211,
+                    "width": 94,
+                    "height": 22
+                },
+                "region_attributes": {
+                    "palet": "\\\\ MAGIC"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_53.jpg9780": {
+        "filename": "IMG_53.jpg",
+        "size": 9780,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 86,
+                    "y": 155,
+                    "width": 53,
+                    "height": 15
+                },
+                "region_attributes": {
+                    "palet": "83 تونس 3245"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_54.jpg10478": {
+        "filename": "IMG_54.jpg",
+        "size": 10478,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 105,
+                    "y": 167,
+                    "width": 99,
+                    "height": 24
+                },
+                "region_attributes": {
+                    "palet": "222 تونس 589"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_55.jpg8574": {
+        "filename": "IMG_55.jpg",
+        "size": 8574,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 123,
+                    "y": 117,
+                    "width": 81,
+                    "height": 17
+                },
+                "region_attributes": {
+                    "palet": "194 تونس 5066"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_56.jpg9244": {
+        "filename": "IMG_56.jpg",
+        "size": 9244,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 221,
+                    "y": 90,
+                    "width": 42,
+                    "height": 25
+                },
+                "region_attributes": {
+                    "palet": "223 تونس 7537"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_57.jpg76340": {
+        "filename": "IMG_57.jpg",
+        "size": 76340,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 339,
+                    "y": 872,
+                    "width": 178,
+                    "height": 46
+                },
+                "region_attributes": {
+                    "palet": "112 تونس 5867"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_58.jpg8762": {
+        "filename": "IMG_58.jpg",
+        "size": 8762,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 118,
+                    "y": 186,
+                    "width": 87,
+                    "height": 20
+                },
+                "region_attributes": {
+                    "palet": "222 تونس 9755"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_59.jpg237580": {
+        "filename": "IMG_59.jpg",
+        "size": 237580,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 111,
+                    "y": 1084,
+                    "width": 265,
+                    "height": 143
+                },
+                "region_attributes": {
+                    "palet": "GOLDEN.CAR"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_60.jpg10182": {
+        "filename": "IMG_60.jpg",
+        "size": 10182,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 103,
+                    "y": 166,
+                    "width": 101,
+                    "height": 24
+                },
+                "region_attributes": {
+                    "palet": "WW-196-LC"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_61.jpg10182": {
+        "filename": "IMG_61.jpg",
+        "size": 10182,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 103,
+                    "y": 164,
+                    "width": 101,
+                    "height": 27
+                },
+                "region_attributes": {
+                    "palet": "WW-196-LC"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_62.jpg384270": {
+        "filename": "IMG_62.jpg",
+        "size": 384270,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1552,
+                    "y": 1412,
+                    "width": 813,
+                    "height": 159
+                },
+                "region_attributes": {
+                    "palet": "190 تونس 4490"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_63.jpg158887": {
+        "filename": "IMG_63.jpg",
+        "size": 158887,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 97,
+                    "y": 118,
+                    "width": 53,
+                    "height": 31
+                },
+                "region_attributes": {
+                    "palet": "123 تونس 5432"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_64.jpg10620": {
+        "filename": "IMG_64.jpg",
+        "size": 10620,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 89,
+                    "y": 217,
+                    "width": 80,
+                    "height": 20
+                },
+                "region_attributes": {
+                    "palet": "224 تونس 3270"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_65.jpg11468": {
+        "filename": "IMG_65.jpg",
+        "size": 11468,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2,
+                    "y": 70,
+                    "width": 13,
+                    "height": 5
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 65,
+                    "y": 42,
+                    "width": 11,
+                    "height": 3
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 251,
+                    "y": 92,
+                    "width": 47,
+                    "height": 40
+                },
+                "region_attributes": {
+                    "palet": "192 تونس 508"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_66.jpg4926": {
+        "filename": "IMG_66.jpg",
+        "size": 4926,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 67,
+                    "y": 177,
+                    "width": 57,
+                    "height": 13
+                },
+                "region_attributes": {
+                    "palet": "213 تونس 9011"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_67.jpg9184": {
+        "filename": "IMG_67.jpg",
+        "size": 9184,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 134,
+                    "y": 156,
+                    "width": 39,
+                    "height": 9
+                },
+                "region_attributes": {
+                    "palet": "193 تونس 1819"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 49,
+                    "y": 87,
+                    "width": 18,
+                    "height": 4
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_68.jpg89986": {
+        "filename": "IMG_68.jpg",
+        "size": 89986,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 572,
+                    "y": 888,
+                    "width": 146,
+                    "height": 75
+                },
+                "region_attributes": {
+                    "palet": "112 تونس 5867"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_69.jpg7332": {
+        "filename": "IMG_69.jpg",
+        "size": 7332,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 81,
+                    "y": 186,
+                    "width": 56,
+                    "height": 11
+                },
+                "region_attributes": {
+                    "palet": "146 تونس 9376"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_70.jpg7170": {
+        "filename": "IMG_70.jpg",
+        "size": 7170,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 124,
+                    "y": 139,
+                    "width": 45,
+                    "height": 13
+                },
+                "region_attributes": {
+                    "palet": "197 تونس "
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_71.jpg12588": {
+        "filename": "IMG_71.jpg",
+        "size": 12588,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 93,
+                    "y": 218,
+                    "width": 66,
+                    "height": 18
+                },
+                "region_attributes": {
+                    "palet": "219 تونس 4049"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_72.jpg11884": {
+        "filename": "IMG_72.jpg",
+        "size": 11884,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 103,
+                    "y": 223,
+                    "width": 87,
+                    "height": 19
+                },
+                "region_attributes": {
+                    "palet": "219 تونس 4397"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2,
+                    "y": 55,
+                    "width": 15,
+                    "height": 6
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_73.jpg6248": {
+        "filename": "IMG_73.jpg",
+        "size": 6248,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 32,
+                    "y": 159,
+                    "width": 48,
+                    "height": 28
+                },
+                "region_attributes": {
+                    "palet": "191 تونس 5986"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_74.jpg8460": {
+        "filename": "IMG_74.jpg",
+        "size": 8460,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 111,
+                    "y": 190,
+                    "width": 62,
+                    "height": 16
+                },
+                "region_attributes": {
+                    "palet": "119 تونس 5808"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 67,
+                    "y": 67,
+                    "width": 7,
+                    "height": 4
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_75.jpg17460": {
+        "filename": "IMG_75.jpg",
+        "size": 17460,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 19,
+                    "y": 149,
+                    "width": 44,
+                    "height": 22
+                },
+                "region_attributes": {
+                    "palet": "GOLDEN.CAR"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_76.jpg10478": {
+        "filename": "IMG_76.jpg",
+        "size": 10478,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 107,
+                    "y": 169,
+                    "width": 98,
+                    "height": 23
+                },
+                "region_attributes": {
+                    "palet": "222 تونس 589"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_77.jpg36496": {
+        "filename": "IMG_77.jpg",
+        "size": 36496,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 251,
+                    "y": 303,
+                    "width": 62,
+                    "height": 42
+                },
+                "region_attributes": {
+                    "palet": "232 تونس 3127"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 291,
+                    "y": 192,
+                    "width": 25,
+                    "height": 9
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_78.jpg8574": {
+        "filename": "IMG_78.jpg",
+        "size": 8574,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 124,
+                    "y": 115,
+                    "width": 82,
+                    "height": 22
+                },
+                "region_attributes": {
+                    "palet": "194 تونس 5066"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_79.jpg71710": {
+        "filename": "IMG_79.jpg",
+        "size": 71710,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 314,
+                    "y": 846,
+                    "width": 156,
+                    "height": 39
+                },
+                "region_attributes": {
+                    "palet": "112 تونس 5867"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_80.jpg9996": {
+        "filename": "IMG_80.jpg",
+        "size": 9996,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 106,
+                    "y": 195,
+                    "width": 97,
+                    "height": 23
+                },
+                "region_attributes": {
+                    "palet": "222 تونس 9755"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_81.jpg11784": {
+        "filename": "IMG_81.jpg",
+        "size": 11784,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 115,
+                    "y": 125,
+                    "width": 89,
+                    "height": 20
+                },
+                "region_attributes": {
+                    "palet": "223 تونس 7697"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_82.jpg11460": {
+        "filename": "IMG_82.jpg",
+        "size": 11460,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 37,
+                    "y": 199,
+                    "width": 33,
+                    "height": 22
+                },
+                "region_attributes": {
+                    "palet": "193 تونس 6496"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 185,
+                    "y": 91,
+                    "width": 7,
+                    "height": 4
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_83.jpg9650": {
+        "filename": "IMG_83.jpg",
+        "size": 9650,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 131,
+                    "y": 113,
+                    "width": 46,
+                    "height": 16
+                },
+                "region_attributes": {
+                    "palet": "145 تونس 8320"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_84.jpg75752": {
+        "filename": "IMG_84.jpg",
+        "size": 75752,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 528,
+                    "y": 714,
+                    "width": 127,
+                    "height": 56
+                },
+                "region_attributes": {
+                    "palet": "124 تونس 3700"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_85.jpg69327": {
+        "filename": "IMG_85.jpg",
+        "size": 69327,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 99,
+                    "y": 653,
+                    "width": 130,
+                    "height": 75
+                },
+                "region_attributes": {
+                    "palet": "124 تونس 3700"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_86.jpg81758": {
+        "filename": "IMG_86.jpg",
+        "size": 81758,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 52,
+                    "y": 682,
+                    "width": 98,
+                    "height": 69
+                },
+                "region_attributes": {
+                    "palet": "124 تونس 3700"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_87.jpg5994702": {
+        "filename": "IMG_87.jpg",
+        "size": 5994702,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2102,
+                    "y": 1710,
+                    "width": 577,
+                    "height": 300
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2741,
+                    "y": 1759,
+                    "width": 10,
+                    "height": 98
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2741,
+                    "y": 1681,
+                    "width": 2,
+                    "height": 126
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_88.jpg6855190": {
+        "filename": "IMG_88.jpg",
+        "size": 6855190,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1034,
+                    "y": 1836,
+                    "width": 176,
+                    "height": 69
+                },
+                "region_attributes": {
+                    "palet": "20 - "
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_89.jpg7062857": {
+        "filename": "IMG_89.jpg",
+        "size": 7062857,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2230,
+                    "y": 1208,
+                    "width": 353,
+                    "height": 147
+                },
+                "region_attributes": {
+                    "palet": "197 تونس 19\n2"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 674,
+                    "y": 725,
+                    "width": 86,
+                    "height": 22
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_90.jpg109658": {
+        "filename": "IMG_90.jpg",
+        "size": 109658,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 228,
+                    "y": 957,
+                    "width": 293,
+                    "height": 72
+                },
+                "region_attributes": {
+                    "palet": "131 تونس 5605"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 113,
+                    "y": 533,
+                    "width": 30,
+                    "height": 13
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_91.jpg6406091": {
+        "filename": "IMG_91.jpg",
+        "size": 6406091,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1844,
+                    "y": 1569,
+                    "width": 521,
+                    "height": 116
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_92.jpg6939122": {
+        "filename": "IMG_92.jpg",
+        "size": 6939122,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 772,
+                    "y": 1617,
+                    "width": 833,
+                    "height": 202
+                },
+                "region_attributes": {
+                    "palet": "230 تونس 467"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_93.jpg4054035": {
+        "filename": "IMG_93.jpg",
+        "size": 4054035,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2291,
+                    "y": 1599,
+                    "width": 631,
+                    "height": 343
+                },
+                "region_attributes": {
+                    "palet": "179 تونس 7445"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_94.jpg4415659": {
+        "filename": "IMG_94.jpg",
+        "size": 4415659,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1415,
+                    "y": 1636,
+                    "width": 606,
+                    "height": 196
+                },
+                "region_attributes": {
+                    "palet": "92286 ن ت"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_95.jpg4251903": {
+        "filename": "IMG_95.jpg",
+        "size": 4251903,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1899,
+                    "y": 1323,
+                    "width": 613,
+                    "height": 515
+                },
+                "region_attributes": {
+                    "palet": "230 تونس  467"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_96.jpg5164635": {
+        "filename": "IMG_96.jpg",
+        "size": 5164635,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1819,
+                    "y": 2211,
+                    "width": 37,
+                    "height": 478
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_97.jpg5631266": {
+        "filename": "IMG_97.jpg",
+        "size": 5631266,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1629,
+                    "y": 1739,
+                    "width": 1078,
+                    "height": 331
+                },
+                "region_attributes": {
+                    "palet": "92286 ن ت"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2530,
+                    "y": 1856,
+                    "width": 6,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_98.jpg4536525": {
+        "filename": "IMG_98.jpg",
+        "size": 4536525,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2334,
+                    "y": 1856,
+                    "width": 429,
+                    "height": 67
+                },
+                "region_attributes": {
+                    "palet": "92286 ن ت "
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2554,
+                    "y": 2009,
+                    "width": 31,
+                    "height": 43
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_99.jpg7350415": {
+        "filename": "IMG_99.jpg",
+        "size": 7350415,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1707,
+                    "y": 1638,
+                    "width": 386,
+                    "height": 116
+                },
+                "region_attributes": {
+                    "palet": "217 تونس 4749"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_100.jpg7250501": {
+        "filename": "IMG_100.jpg",
+        "size": 7250501,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1131,
+                    "y": 1279,
+                    "width": 470,
+                    "height": 137
+                },
+                "region_attributes": {
+                    "palet": "216 تونس 3052"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_101.jpg59878": {
+        "filename": "IMG_101.jpg",
+        "size": 59878,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 278,
+                    "y": 841,
+                    "width": 197,
+                    "height": 59
+                },
+                "region_attributes": {
+                    "palet": "131 تونس 5605"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_102.jpg6996911": {
+        "filename": "IMG_102.jpg",
+        "size": 6996911,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1839,
+                    "y": 1701,
+                    "width": 280,
+                    "height": 111
+                },
+                "region_attributes": {
+                    "palet": "207 تونس 5237"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 898,
+                    "y": 1453,
+                    "width": 180,
+                    "height": 58
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_103.jpg4371699": {
+        "filename": "IMG_103.jpg",
+        "size": 4371699,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1125,
+                    "y": 2077,
+                    "width": 259,
+                    "height": 58
+                },
+                "region_attributes": {
+                    "palet": "209 تونس 6724"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 3366,
+                    "y": 1707,
+                    "width": 206,
+                    "height": 63
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_104.jpg3194266": {
+        "filename": "IMG_104.jpg",
+        "size": 3194266,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1464,
+                    "y": 1712,
+                    "width": 682,
+                    "height": 211
+                },
+                "region_attributes": {
+                    "palet": "153 تونس 3914"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_105.jpg7109388": {
+        "filename": "IMG_105.jpg",
+        "size": 7109388,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1136,
+                    "y": 1374,
+                    "width": 491,
+                    "height": 116
+                },
+                "region_attributes": {
+                    "palet": "140 تونس 5981"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_106.jpg5639201": {
+        "filename": "IMG_106.jpg",
+        "size": 5639201,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1155,
+                    "y": 1831,
+                    "width": 338,
+                    "height": 127
+                },
+                "region_attributes": {
+                    "palet": "140 تونس 5981"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_107.jpg4784085": {
+        "filename": "IMG_107.jpg",
+        "size": 4784085,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1035,
+                    "y": 1986,
+                    "width": 514,
+                    "height": 183
+                },
+                "region_attributes": {
+                    "palet": "166 تونس 670"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_108.jpg3520897": {
+        "filename": "IMG_108.jpg",
+        "size": 3520897,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 796,
+                    "y": 2099,
+                    "width": 620,
+                    "height": 380
+                },
+                "region_attributes": {
+                    "palet": "136 تونس 8732"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_109.jpg3959832": {
+        "filename": "IMG_109.jpg",
+        "size": 3959832,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1937,
+                    "y": 1937,
+                    "width": 761,
+                    "height": 451
+                },
+                "region_attributes": {
+                    "palet": "166 تونس 670"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_110.jpg3784214": {
+        "filename": "IMG_110.jpg",
+        "size": 3784214,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 908,
+                    "y": 2697,
+                    "width": 782,
+                    "height": 415
+                },
+                "region_attributes": {
+                    "palet": "136 تونس 8732"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_111.jpg7405675": {
+        "filename": "IMG_111.jpg",
+        "size": 7405675,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1643,
+                    "y": 1379,
+                    "width": 433,
+                    "height": 116
+                },
+                "region_attributes": {
+                    "palet": "217 تونس 4749"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_112.jpg107887": {
+        "filename": "IMG_112.jpg",
+        "size": 107887,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 287,
+                    "y": 322,
+                    "width": 206,
+                    "height": 43
+                },
+                "region_attributes": {
+                    "palet": "223 تونس 7697"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_113.jpg111120": {
+        "filename": "IMG_113.jpg",
+        "size": 111120,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 219,
+                    "y": 762,
+                    "width": 307,
+                    "height": 56
+                },
+                "region_attributes": {
+                    "palet": "131 تونس 5605"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 107,
+                    "y": 326,
+                    "width": 42,
+                    "height": 11
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_114.jpg4564998": {
+        "filename": "IMG_114.jpg",
+        "size": 4564998,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2156,
+                    "y": 1887,
+                    "width": 449,
+                    "height": 127
+                },
+                "region_attributes": {
+                    "palet": "136 تونس 8732"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_115.jpg5304539": {
+        "filename": "IMG_115.jpg",
+        "size": 5304539,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1324,
+                    "y": 1817,
+                    "width": 352,
+                    "height": 92
+                },
+                "region_attributes": {
+                    "palet": "164 تونس 2478"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 817,
+                    "y": 1507,
+                    "width": 162,
+                    "height": 56
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2824,
+                    "y": 1401,
+                    "width": 99,
+                    "height": 35
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2007,
+                    "y": 1349,
+                    "width": 53,
+                    "height": 18
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_116.jpg3865604": {
+        "filename": "IMG_116.jpg",
+        "size": 3865604,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1737,
+                    "y": 1894,
+                    "width": 68,
+                    "height": 68
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_117.jpg4689671": {
+        "filename": "IMG_117.jpg",
+        "size": 4689671,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1085,
+                    "y": 1960,
+                    "width": 740,
+                    "height": 186
+                },
+                "region_attributes": {
+                    "palet": "164 تونس 2478"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_118.jpg6546997": {
+        "filename": "IMG_118.jpg",
+        "size": 6546997,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 514,
+                    "y": 1774,
+                    "width": 605,
+                    "height": 153
+                },
+                "region_attributes": {
+                    "palet": "226 تونس 6626"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_119.jpg4419176": {
+        "filename": "IMG_119.jpg",
+        "size": 4419176,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1927,
+                    "y": 2350,
+                    "width": 492,
+                    "height": 260
+                },
+                "region_attributes": {
+                    "palet": "164 تونس 2478"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_120.jpg5160784": {
+        "filename": "IMG_120.jpg",
+        "size": 5160784,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1424,
+                    "y": 2136,
+                    "width": 243,
+                    "height": 113
+                },
+                "region_attributes": {
+                    "palet": "226 تونس 6626"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_121.jpg6540562": {
+        "filename": "IMG_121.jpg",
+        "size": 6540562,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1694,
+                    "y": 1639,
+                    "width": 243,
+                    "height": 102
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1560,
+                    "y": 1893,
+                    "width": 333,
+                    "height": 169
+                },
+                "region_attributes": {
+                    "palet": "186 تونس  5905"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1897,
+                    "y": 1700,
+                    "width": 52,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_122.jpg2628743": {
+        "filename": "IMG_122.jpg",
+        "size": 2628743,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1088,
+                    "y": 1565,
+                    "width": 79,
+                    "height": 69
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_123.jpg5772989": {
+        "filename": "IMG_123.jpg",
+        "size": 5772989,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 211,
+                    "y": 1812,
+                    "width": 75,
+                    "height": 30
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 704,
+                    "y": 1744,
+                    "width": 53,
+                    "height": 23
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2113,
+                    "y": 1687,
+                    "width": 30,
+                    "height": 26
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1168,
+                    "y": 2004,
+                    "width": 230,
+                    "height": 56
+                },
+                "region_attributes": {
+                    "palet": "230 تونس 467"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_124.jpg43740": {
+        "filename": "IMG_124.jpg",
+        "size": 43740,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 277,
+                    "y": 757,
+                    "width": 161,
+                    "height": 35
+                },
+                "region_attributes": {
+                    "palet": "130 تونس 5513"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_125.jpg6784115": {
+        "filename": "IMG_125.jpg",
+        "size": 6784115,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1864,
+                    "y": 1480,
+                    "width": 407,
+                    "height": 107
+                },
+                "region_attributes": {
+                    "palet": "108 تونس 1697"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 585,
+                    "y": 613,
+                    "width": 59,
+                    "height": 37
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_126.jpg4915181": {
+        "filename": "IMG_126.jpg",
+        "size": 4915181,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1313,
+                    "y": 1834,
+                    "width": 413,
+                    "height": 97
+                },
+                "region_attributes": {
+                    "palet": "110 تونس 9077"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2587,
+                    "y": 1352,
+                    "width": 143,
+                    "height": 66
+                },
+                "region_attributes": {
+                    "palet": "142 تونس 5323"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_127.jpg3747287": {
+        "filename": "IMG_127.jpg",
+        "size": 3747287,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1544,
+                    "y": 1912,
+                    "width": 147,
+                    "height": 84
+                },
+                "region_attributes": {
+                    "palet": "تونس 3318"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 832,
+                    "y": 1833,
+                    "width": 86,
+                    "height": 66
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 746,
+                    "y": 1740,
+                    "width": 90,
+                    "height": 45
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 183,
+                    "y": 1733,
+                    "width": 90,
+                    "height": 45
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_128.jpg4988325": {
+        "filename": "IMG_128.jpg",
+        "size": 4988325,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 949,
+                    "y": 1713,
+                    "width": 307,
+                    "height": 68
+                },
+                "region_attributes": {
+                    "palet": "142 تونس 3523"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_129.jpg4663332": {
+        "filename": "IMG_129.jpg",
+        "size": 4663332,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1116,
+                    "y": 1476,
+                    "width": 635,
+                    "height": 176
+                },
+                "region_attributes": {
+                    "palet": "\n199 تونس 6914"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_130.jpg4826206": {
+        "filename": "IMG_130.jpg",
+        "size": 4826206,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 102,
+                    "y": 1840,
+                    "width": 47,
+                    "height": 25
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 838,
+                    "y": 2136,
+                    "width": 287,
+                    "height": 77
+                },
+                "region_attributes": {
+                    "palet": "170 تونس 3964"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_131.jpg5223096": {
+        "filename": "IMG_131.jpg",
+        "size": 5223096,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 3328,
+                    "y": 1326,
+                    "width": 68,
+                    "height": 25
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1733,
+                    "y": 1919,
+                    "width": 316,
+                    "height": 57
+                },
+                "region_attributes": {
+                    "palet": "185 تونس 1195"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_132.jpg5424341": {
+        "filename": "IMG_132.jpg",
+        "size": 5424341,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2822,
+                    "y": 967,
+                    "width": 74,
+                    "height": 28
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2026,
+                    "y": 1378,
+                    "width": 265,
+                    "height": 76
+                },
+                "region_attributes": {
+                    "palet": "136 تونس 1769"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 426,
+                    "y": 1128,
+                    "width": 96,
+                    "height": 35
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_133.jpg5909875": {
+        "filename": "IMG_133.jpg",
+        "size": 5909875,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 987,
+                    "y": 1627,
+                    "width": 362,
+                    "height": 156
+                },
+                "region_attributes": {
+                    "palet": "264713 ن ت"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_134.jpg4572876": {
+        "filename": "IMG_134.jpg",
+        "size": 4572876,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 55,
+                    "y": 583,
+                    "width": 1015,
+                    "height": 318
+                },
+                "region_attributes": {
+                    "palet": "264713 ن ت "
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_135.jpg98267": {
+        "filename": "IMG_135.jpg",
+        "size": 98267,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 242,
+                    "y": 675,
+                    "width": 274,
+                    "height": 68
+                },
+                "region_attributes": {
+                    "palet": "131 تونس 5605"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_136.jpg4124642": {
+        "filename": "IMG_136.jpg",
+        "size": 4124642,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 763,
+                    "y": 1426,
+                    "width": 545,
+                    "height": 301
+                },
+                "region_attributes": {
+                    "palet": "264713 ن ت "
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_137.jpg6875365": {
+        "filename": "IMG_137.jpg",
+        "size": 6875365,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1630,
+                    "y": 1624,
+                    "width": 467,
+                    "height": 241
+                },
+                "region_attributes": {
+                    "palet": "108 تونس 1697"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_138.jpg3321222": {
+        "filename": "IMG_138.jpg",
+        "size": 3321222,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1363,
+                    "y": 1321,
+                    "width": 139,
+                    "height": 55
+                },
+                "region_attributes": {
+                    "palet": "118 تونس 618"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 335,
+                    "y": 1228,
+                    "width": 54,
+                    "height": 27
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 908,
+                    "y": 1187,
+                    "width": 32,
+                    "height": 54
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2179,
+                    "y": 1114,
+                    "width": 100,
+                    "height": 34
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_139.jpg2616412": {
+        "filename": "IMG_139.jpg",
+        "size": 2616412,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 692,
+                    "y": 921,
+                    "width": 48,
+                    "height": 86
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1444,
+                    "y": 1205,
+                    "width": 250,
+                    "height": 105
+                },
+                "region_attributes": {
+                    "palet": "118 تونس 618"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 5,
+                    "y": 912,
+                    "width": 30,
+                    "height": 43
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_140.jpg7627396": {
+        "filename": "IMG_140.jpg",
+        "size": 7627396,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 996,
+                    "y": 972,
+                    "width": 80,
+                    "height": 41
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 270,
+                    "y": 1035,
+                    "width": 104,
+                    "height": 41
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1748,
+                    "y": 1515,
+                    "width": 252,
+                    "height": 274
+                },
+                "region_attributes": {
+                    "palet": "21953 م"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_141.jpg7118096": {
+        "filename": "IMG_141.jpg",
+        "size": 7118096,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2311,
+                    "y": 1761,
+                    "width": 309,
+                    "height": 441
+                },
+                "region_attributes": {
+                    "palet": "21953 م"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_142.jpg6108326": {
+        "filename": "IMG_142.jpg",
+        "size": 6108326,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1583,
+                    "y": 1348,
+                    "width": 480,
+                    "height": 207
+                },
+                "region_attributes": {
+                    "palet": "21953 م خ"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 717,
+                    "y": 1674,
+                    "width": 239,
+                    "height": 74
+                },
+                "region_attributes": {
+                    "palet": "118 تونس 618"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 3933,
+                    "y": 1161,
+                    "width": 46,
+                    "height": 22
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_143.jpg8440652": {
+        "filename": "IMG_143.jpg",
+        "size": 8440652,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 693,
+                    "y": 759,
+                    "width": 115,
+                    "height": 41
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2333,
+                    "y": 826,
+                    "width": 133,
+                    "height": 43
+                },
+                "region_attributes": {
+                    "palet": "155 تونس 1916"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1907,
+                    "y": 1433,
+                    "width": 346,
+                    "height": 130
+                },
+                "region_attributes": {
+                    "palet": "44 تونس 7547"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2657,
+                    "y": 737,
+                    "width": 39,
+                    "height": 26
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 3189,
+                    "y": 728,
+                    "width": 54,
+                    "height": 33
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_144.jpg7027693": {
+        "filename": "IMG_144.jpg",
+        "size": 7027693,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1596,
+                    "y": 1587,
+                    "width": 650,
+                    "height": 128
+                },
+                "region_attributes": {
+                    "palet": "151 تونس 8437"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_145.jpg6469760": {
+        "filename": "IMG_145.jpg",
+        "size": 6469760,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        1534,
+                        2085,
+                        2102,
+                        1559
+                    ],
+                    "all_points_y": [
+                        1784,
+                        1873,
+                        1979,
+                        1886
+                    ]
+                },
+                "region_attributes": {
+                    "palet": "159 تونس 5132"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 3492,
+                    "y": 665,
+                    "width": 280,
+                    "height": 59
+                },
+                "region_attributes": {
+                    "palet": "120 تونس 9"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 924,
+                    "y": 398,
+                    "width": 64,
+                    "height": 34
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_146.jpg91769": {
+        "filename": "IMG_146.jpg",
+        "size": 91769,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        466,
+                        534,
+                        534,
+                        469,
+                        466
+                    ],
+                    "all_points_y": [
+                        678,
+                        664,
+                        677,
+                        694,
+                        677
+                    ]
+                },
+                "region_attributes": {
+                    "palet": "130 تونس 5513"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 163,
+                    "y": 534,
+                    "width": 23,
+                    "height": 7
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_147.jpg5560360": {
+        "filename": "IMG_147.jpg",
+        "size": 5560360,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 3610,
+                    "y": 975,
+                    "width": 224,
+                    "height": 73
+                },
+                "region_attributes": {
+                    "palet": "8236 مخ"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1861,
+                    "y": 1405,
+                    "width": 349,
+                    "height": 80
+                },
+                "region_attributes": {
+                    "palet": "21170 م خ"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_148.jpg4235391": {
+        "filename": "IMG_148.jpg",
+        "size": 4235391,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        1273,
+                        1270,
+                        1643,
+                        1642,
+                        1275
+                    ],
+                    "all_points_y": [
+                        1692,
+                        1779,
+                        1814,
+                        1717,
+                        1687
+                    ]
+                },
+                "region_attributes": {
+                    "palet": "258528 ن ت"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_149.jpg6238223": {
+        "filename": "IMG_149.jpg",
+        "size": 6238223,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        1254,
+                        1240,
+                        1783,
+                        1802,
+                        1256
+                    ],
+                    "all_points_y": [
+                        1440,
+                        1562,
+                        1626,
+                        1487,
+                        1442
+                    ]
+                },
+                "region_attributes": {
+                    "palet": "108 تونس 1697"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_150.jpg5756484": {
+        "filename": "IMG_150.jpg",
+        "size": 5756484,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "IMG_151.jpg5883711": {
+        "filename": "IMG_151.jpg",
+        "size": 5883711,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "IMG_152.jpg3838027": {
+        "filename": "IMG_152.jpg",
+        "size": 3838027,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "IMG_153.jpg2728518": {
+        "filename": "IMG_153.jpg",
+        "size": 2728518,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "IMG_154.jpg2286524": {
+        "filename": "IMG_154.jpg",
+        "size": 2286524,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "IMG_155.jpg3232278": {
+        "filename": "IMG_155.jpg",
+        "size": 3232278,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "IMG_156.jpg2525106": {
+        "filename": "IMG_156.jpg",
+        "size": 2525106,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "IMG_157.jpg98283": {
+        "filename": "IMG_157.jpg",
+        "size": 98283,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "IMG_158.jpg3430416": {
+        "filename": "IMG_158.jpg",
+        "size": 3430416,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "IMG_159.jpg2644252": {
+        "filename": "IMG_159.jpg",
+        "size": 2644252,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "IMG_160.jpg2665573": {
+        "filename": "IMG_160.jpg",
+        "size": 2665573,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "IMG_161.jpg5786471": {
+        "filename": "IMG_161.jpg",
+        "size": 5786471,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "IMG_162.jpg2585678": {
+        "filename": "IMG_162.jpg",
+        "size": 2585678,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "IMG_163.jpg3151351": {
+        "filename": "IMG_163.jpg",
+        "size": 3151351,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "IMG_164.jpg5481247": {
+        "filename": "IMG_164.jpg",
+        "size": 5481247,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "IMG_165.jpg5165598": {
+        "filename": "IMG_165.jpg",
+        "size": 5165598,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "IMG_166.jpg6618345": {
+        "filename": "IMG_166.jpg",
+        "size": 6618345,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        2303,
+                        2306,
+                        2897,
+                        2887,
+                        2308
+                    ],
+                    "all_points_y": [
+                        2200,
+                        2336,
+                        2348,
+                        2202,
+                        2195
+                    ]
+                },
+                "region_attributes": {
+                    "palet": "225 تونس 7868"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_167.jpg94": {
+        "filename": "IMG_167.jpg",
+        "size": 94,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "IMG_168.jpg68788": {
+        "filename": "IMG_168.jpg",
+        "size": 68788,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        7,
+                        12,
+                        120,
+                        116,
+                        7
+                    ],
+                    "all_points_y": [
+                        908,
+                        933,
+                        956,
+                        928,
+                        908
+                    ]
+                },
+                "region_attributes": {
+                    "palet": "130 تونس 5513"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 618,
+                    "y": 526,
+                    "width": 34,
+                    "height": 11
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_169.jpg35044": {
+        "filename": "IMG_169.jpg",
+        "size": 35044,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 314,
+                    "y": 259,
+                    "width": 125,
+                    "height": 31
+                },
+                "region_attributes": {
+                    "palet": "163 تونس "
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_170.jpg117327": {
+        "filename": "IMG_170.jpg",
+        "size": 117327,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 134,
+                    "y": 432,
+                    "width": 112,
+                    "height": 29
+                },
+                "region_attributes": {
+                    "palet": "215 تونس "
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_171.jpg81061": {
+        "filename": "IMG_171.jpg",
+        "size": 81061,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 184,
+                    "y": 488,
+                    "width": 149,
+                    "height": 31
+                },
+                "region_attributes": {
+                    "palet": "64 تونس 3691"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_172.jpg103380": {
+        "filename": "IMG_172.jpg",
+        "size": 103380,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        251,
+                        256,
+                        420,
+                        417,
+                        251
+                    ],
+                    "all_points_y": [
+                        545,
+                        580,
+                        539,
+                        505,
+                        544
+                    ]
+                },
+                "region_attributes": {
+                    "palet": "131 تونس 153"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_173.jpg107192": {
+        "filename": "IMG_173.jpg",
+        "size": 107192,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        110,
+                        112,
+                        299,
+                        297,
+                        111
+                    ],
+                    "all_points_y": [
+                        726,
+                        759,
+                        780,
+                        747,
+                        728
+                    ]
+                },
+                "region_attributes": {
+                    "palet": "192 تونس "
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        87,
+                        87,
+                        96,
+                        96
+                    ],
+                    "all_points_y": [
+                        255,
+                        262,
+                        261,
+                        254
+                    ]
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_174.jpg158526": {
+        "filename": "IMG_174.jpg",
+        "size": 158526,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 230,
+                    "y": 451,
+                    "width": 169,
+                    "height": 37
+                },
+                "region_attributes": {
+                    "palet": "166 تونس 5914"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_175.jpg106233": {
+        "filename": "IMG_175.jpg",
+        "size": 106233,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 250,
+                    "y": 400,
+                    "width": 236,
+                    "height": 55
+                },
+                "region_attributes": {
+                    "palet": "222 تونس 589"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_176.jpg98283": {
+        "filename": "IMG_176.jpg",
+        "size": 98283,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 292,
+                    "y": 279,
+                    "width": 194,
+                    "height": 40
+                },
+                "region_attributes": {
+                    "palet": "194 تونس 5066"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_177.jpg93942": {
+        "filename": "IMG_177.jpg",
+        "size": 93942,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 249,
+                    "y": 411,
+                    "width": 208,
+                    "height": 50
+                },
+                "region_attributes": {
+                    "palet": "194 تونس 5066"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_178.jpg107887": {
+        "filename": "IMG_178.jpg",
+        "size": 107887,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 290,
+                    "y": 319,
+                    "width": 199,
+                    "height": 44
+                },
+                "region_attributes": {
+                    "palet": "223 تونس 7697"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_179.jpg71854": {
+        "filename": "IMG_179.jpg",
+        "size": 71854,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        366,
+                        480,
+                        486,
+                        363,
+                        366
+                    ],
+                    "all_points_y": [
+                        757,
+                        752,
+                        774,
+                        781,
+                        758
+                    ]
+                },
+                "region_attributes": {
+                    "palet": "130 تونس 5513"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_180.jpg135826": {
+        "filename": "IMG_180.jpg",
+        "size": 135826,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        56,
+                        166,
+                        167,
+                        56,
+                        57
+                    ],
+                    "all_points_y": [
+                        350,
+                        389,
+                        436,
+                        394,
+                        350
+                    ]
+                },
+                "region_attributes": {
+                    "palet": "229 تونس 6490"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_181.jpg130311": {
+        "filename": "IMG_181.jpg",
+        "size": 130311,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        304,
+                        307,
+                        507,
+                        506,
+                        305
+                    ],
+                    "all_points_y": [
+                        424,
+                        463,
+                        473,
+                        432,
+                        425
+                    ]
+                },
+                "region_attributes": {
+                    "palet": "219 تونس "
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_182.jpg118911": {
+        "filename": "IMG_182.jpg",
+        "size": 118911,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 250,
+                    "y": 420,
+                    "width": 217,
+                    "height": 47
+                },
+                "region_attributes": {
+                    "palet": "223 تونس 7697"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_183.jpg138304": {
+        "filename": "IMG_183.jpg",
+        "size": 138304,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 283,
+                    "y": 521,
+                    "width": 253,
+                    "height": 60
+                },
+                "region_attributes": {
+                    "palet": "222 تونس 9755"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_184.jpg159222": {
+        "filename": "IMG_184.jpg",
+        "size": 159222,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        531,
+                        562,
+                        563,
+                        530,
+                        530
+                    ],
+                    "all_points_y": [
+                        308,
+                        282,
+                        297,
+                        324,
+                        305
+                    ]
+                },
+                "region_attributes": {
+                    "palet": "224 تونس "
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_185.jpg93495": {
+        "filename": "IMG_185.jpg",
+        "size": 93495,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 337,
+                    "y": 335,
+                    "width": 137,
+                    "height": 26
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_186.jpg130703": {
+        "filename": "IMG_186.jpg",
+        "size": 130703,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        612,
+                        661,
+                        663,
+                        616,
+                        613
+                    ],
+                    "all_points_y": [
+                        363,
+                        343,
+                        361,
+                        380,
+                        362
+                    ]
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_187.jpg149699": {
+        "filename": "IMG_187.jpg",
+        "size": 149699,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 188,
+                    "y": 631,
+                    "width": 206,
+                    "height": 41
+                },
+                "region_attributes": {
+                    "palet": "191 تونس 7923"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_188.jpg132597": {
+        "filename": "IMG_188.jpg",
+        "size": 132597,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 183,
+                    "y": 349,
+                    "width": 249,
+                    "height": 59
+                },
+                "region_attributes": {
+                    "palet": "161 تونس "
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_189.jpg201646": {
+        "filename": "IMG_189.jpg",
+        "size": 201646,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        96,
+                        232,
+                        240,
+                        100,
+                        97
+                    ],
+                    "all_points_y": [
+                        607,
+                        651,
+                        693,
+                        645,
+                        608
+                    ]
+                },
+                "region_attributes": {
+                    "palet": "156 تونس 8754"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_190.jpg63052": {
+        "filename": "IMG_190.jpg",
+        "size": 63052,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        98,
+                        111,
+                        221,
+                        201,
+                        99
+                    ],
+                    "all_points_y": [
+                        863,
+                        883,
+                        876,
+                        844,
+                        859
+                    ]
+                },
+                "region_attributes": {
+                    "palet": "98 تونس 4487"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_191.jpg228511": {
+        "filename": "IMG_191.jpg",
+        "size": 228511,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        33,
+                        37,
+                        115,
+                        113,
+                        34
+                    ],
+                    "all_points_y": [
+                        454,
+                        480,
+                        505,
+                        478,
+                        456
+                    ]
+                },
+                "region_attributes": {
+                    "palet": "159 تونس 6283"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_192.jpg138878": {
+        "filename": "IMG_192.jpg",
+        "size": 138878,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 288,
+                    "y": 588,
+                    "width": 209,
+                    "height": 47
+                },
+                "region_attributes": {
+                    "palet": "188 تونس "
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_193.jpg113199": {
+        "filename": "IMG_193.jpg",
+        "size": 113199,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 352,
+                    "y": 428,
+                    "width": 187,
+                    "height": 44
+                },
+                "region_attributes": {
+                    "palet": "219 تونس 7575"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_194.jpg109746": {
+        "filename": "IMG_194.jpg",
+        "size": 109746,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        155,
+                        284,
+                        285,
+                        156,
+                        155
+                    ],
+                    "all_points_y": [
+                        557,
+                        583,
+                        614,
+                        586,
+                        557
+                    ]
+                },
+                "region_attributes": {
+                    "palet": "151 تونس 3462"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_195.jpg71393": {
+        "filename": "IMG_195.jpg",
+        "size": 71393,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        49,
+                        95,
+                        93,
+                        50,
+                        49
+                    ],
+                    "all_points_y": [
+                        375,
+                        384,
+                        397,
+                        392,
+                        375
+                    ]
+                },
+                "region_attributes": {
+                    "palet": "222 تونس "
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_196.jpg62200": {
+        "filename": "IMG_196.jpg",
+        "size": 62200,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        305,
+                        305,
+                        462,
+                        450,
+                        304
+                    ],
+                    "all_points_y": [
+                        470,
+                        495,
+                        503,
+                        476,
+                        471
+                    ]
+                },
+                "region_attributes": {
+                    "palet": "162 تونس 9080"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 580,
+                    "y": 92,
+                    "width": 22,
+                    "height": 7
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_197.jpg93436": {
+        "filename": "IMG_197.jpg",
+        "size": 93436,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        55,
+                        113,
+                        112,
+                        53,
+                        55
+                    ],
+                    "all_points_y": [
+                        306,
+                        338,
+                        368,
+                        336,
+                        307
+                    ]
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_198.jpg127436": {
+        "filename": "IMG_198.jpg",
+        "size": 127436,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        315,
+                        314,
+                        504,
+                        504,
+                        314
+                    ],
+                    "all_points_y": [
+                        539,
+                        576,
+                        551,
+                        515,
+                        539
+                    ]
+                },
+                "region_attributes": {
+                    "palet": "56 تونس "
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 391,
+                    "y": 20,
+                    "width": 12,
+                    "height": 8
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 590,
+                    "y": 7,
+                    "width": 6,
+                    "height": 2
+                },
+                "region_attributes": {
+                    "palet": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_199.jpg76628": {
+        "filename": "IMG_199.jpg",
+        "size": 76628,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        144,
+                        219,
+                        218,
+                        147,
+                        146
+                    ],
+                    "all_points_y": [
+                        402,
+                        402,
+                        417,
+                        420,
+                        402
+                    ]
+                },
+                "region_attributes": {
+                    "palet": "214 تونس "
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_200.jpg117439": {
+        "filename": "IMG_200.jpg",
+        "size": 117439,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        592,
+                        654,
+                        655,
+                        593,
+                        592
+                    ],
+                    "all_points_y": [
+                        277,
+                        254,
+                        280,
+                        305,
+                        276
+                    ]
+                },
+                "region_attributes": {
+                    "palet": "157 تونس "
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_201.jpg61110": {
+        "filename": "IMG_201.jpg",
+        "size": 61110,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        546,
+                        530,
+                        659,
+                        669,
+                        546
+                    ],
+                    "all_points_y": [
+                        897,
+                        930,
+                        923,
+                        888,
+                        894
+                    ]
+                },
+                "region_attributes": {
+                    "palet": "98 تونس 4487"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_202.jpg241446": {
+        "filename": "IMG_202.jpg",
+        "size": 241446,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        100,
+                        182,
+                        179,
+                        99,
+                        101
+                    ],
+                    "all_points_y": [
+                        537,
+                        571,
+                        597,
+                        565,
+                        537
+                    ]
+                },
+                "region_attributes": {
+                    "palet": "221 تونس "
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG_203.jpg135194": {
+        "filename": "IMG_203.jpg",
+        "size": 135194,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 272,
+                    "y": 451,
+                    "width": 244,
+                    "height": 50
+                },
+                "region_attributes": {
+                    "palet": "82 تونس "
+                }
+            }
+        ],
+        "file_attributes": {}
+    }
+}
