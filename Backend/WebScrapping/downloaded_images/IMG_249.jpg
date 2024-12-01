@@ -1,8 +1,0 @@
-#!/bin/bash
-
-img=$(ls)
-j=1
-for i in $img; do
-    mv $i "IMG_$j.jpg"
-    j=$((j+1))
-done
