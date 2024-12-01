@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 peugeot
 opel
 mercedes
@@ -14,3 +15,14 @@ fiat
 suzuki
 seat
 mini
+=======
+renault
+volkswagen
+peugeot
+suzuki
+ibiza
+mahindra
+ford
+mercedes
+uk
+>>>>>>> 62e081227a2fe28712b116ea8c43a85b37f1c071
