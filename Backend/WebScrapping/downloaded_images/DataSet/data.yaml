@@ -1,5 +1,5 @@
 train: train/images
 val: val/images
 
-nc: 15
-names: ['volkswagen','plate','porshe','kia','peugoet','renault','citroen','mercedes','fiat','bmw','audi','dacia','isuzu','opel','uk']
+nc: 24
+names: ['volkswagen','plate','porshe','kia','peugoet','renault','citroen','mercedes','fiat','bmw','audi','dacia','isuzu','opel','unknown','ford','suzuki','chevrolet','cherry','hyundai','nissan','honda','ibiza','mahindra']
