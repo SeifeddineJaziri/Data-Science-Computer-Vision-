@@ -4226,45 +4226,8 @@
         ],
         "file_attributes": {}
     },
-    "IMG_173.jpg107192": {
-        "filename": "IMG_173.jpg",
-        "size": 107192,
-        "regions": [
-            {
-                "shape_attributes": {
-                    "name": "polyline",
-                    "all_points_x": [
-                        87,
-                        87,
-                        96,
-                        96
-                    ],
-                    "all_points_y": [
-                        255,
-                        262,
-                        261,
-                        254
-                    ]
-                },
-                "region_attributes": {
-                    "palet": ""
-                }
-            },
-            {
-                "shape_attributes": {
-                    "name": "rect",
-                    "x": 110,
-                    "y": 722,
-                    "width": 185,
-                    "height": 66
-                },
-                "region_attributes": {
-                    "palet": "192 تونس "
-                }
-            }
-        ],
-        "file_attributes": {}
-    },
+    
+    
     "IMG_174.jpg158526": {
         "filename": "IMG_174.jpg",
         "size": 158526,
@@ -4360,54 +4323,7 @@
         ],
         "file_attributes": {}
     },
-    "IMG_179.jpg71854": {
-        "filename": "IMG_179.jpg",
-        "size": 71854,
-        "regions": [
-            {
-                "shape_attributes": {
-                    "name": "polyline",
-                    "all_points_x": [
-                        366,
-                        480,
-                        486,
-                        363,
-                        366
-                    ],
-                    "all_points_y": [
-                        757,
-                        752,
-                        774,
-                        781,
-                        758
-                    ]
-                },
-                "region_attributes": {
-                    "palet": "130 تونس 5513"
-                }
-            }
-        ],
-        "file_attributes": {}
-    },
-    "IMG_180.jpg135826": {
-        "filename": "IMG_180.jpg",
-        "size": 135826,
-        "regions": [
-            {
-                "shape_attributes": {
-                    "name": "rect",
-                    "x": 34,
-                    "y": 346,
-                    "width": 147,
-                    "height": 83
-                },
-                "region_attributes": {
-                    "palet": "229 تونس 6490"
-                }
-            }
-        ],
-        "file_attributes": {}
-    },
+   
     "IMG_181.jpg130311": {
         "filename": "IMG_181.jpg",
         "size": 130311,
