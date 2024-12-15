@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/DataSetRAHMENI/train/images
+val: /content/drive/MyDrive/DataSetRAHMENI/val/images
+
+nc: 15
+names: ['volkswagen','plate','porshe','kia','peugoet','renault','citroen','mercedes','fiat','bmw','audi','dacia','isuzu','opel','uk']
